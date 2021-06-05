@@ -1,6 +1,20 @@
 # Netflix_Viewership_Analysis
 Analysis of my viewership history on Netflix. You can find the step-by-step here: https://tsfigueira.medium.com/visualizing-netflix-viewership-data-e8f82274612f
 
+1. Installations
+2. File Description
+3. Summary of Results
+
+## 1. Instalations
+
+Through the Anaconda toolkit, I used the Python Libraries: Pandas, Numpy, Matplotlib, and Seaborn.
+
+## 2. File Description
+
+- Netlfix Viewership Analysis.ipynb: Jupyter Notebook source code
+
+## 3. Summary of Results
+
 A few of the insights I identified (until Apr/2021)
 
 The profiles with the most number of days (24 hr periods) watched:
