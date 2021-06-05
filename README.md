@@ -5,7 +5,7 @@ Analysis of my viewership history on Netflix. You can find the step-by-step on m
 2. File Description
 3. Summary of Results
 
-## 1. Instalations
+## 1. Installations
 
 Through the Anaconda toolkit, I used the Python Libraries: Pandas, Numpy, Matplotlib, and Seaborn.
 
